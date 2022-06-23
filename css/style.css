@@ -294,7 +294,7 @@ button{
 .bg-circles .circle-4{
     height: 50px;
     width: 50px;
-    background-color: var(--orange);
+    background-color: silver;
     top: 80%;
     left: -30px;
     opacity: 0.6;
