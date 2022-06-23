@@ -267,7 +267,7 @@ button{
 .bg-circles .circle-1{
     height: 60px;
     width: 60px;
-    background-color: var(--blue);
+    background-color: grey;
     left: 5%;
     top: 10%;
     opacity: 0.3;
